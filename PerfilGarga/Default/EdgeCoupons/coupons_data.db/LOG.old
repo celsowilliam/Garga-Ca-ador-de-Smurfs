@@ -1,0 +1,11 @@
+2026/08/21-16:59:48.454 136c Reusing MANIFEST C:\Users\Gamers Club\Desktop\Garga-Ca-ador-de-Smurfs\PerfilGarga\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/21-16:59:48.456 136c Recovering log #16
+2026/08/21-16:59:48.457 136c Reusing old log C:\Users\Gamers Club\Desktop\Garga-Ca-ador-de-Smurfs\PerfilGarga\Default\EdgeCoupons/coupons_data.db/000016.log 
+2026/08/21-16:59:48.646 1ca4 Level-0 table #20: started
+2026/08/21-16:59:48.652 1ca4 Level-0 table #20: 683444 bytes OK
+2026/08/21-16:59:48.655 1ca4 Delete type=0 #16
+2026/08/21-16:59:48.681 47ac Compacting 4@0 + 1@1 files
+2026/08/21-16:59:48.696 47ac Generated table #21@0: 4 keys, 683352 bytes
+2026/08/21-16:59:48.696 47ac Compacted 4@0 + 1@1 files => 683352 bytes
+2026/08/21-16:59:48.698 47ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/21-16:59:48.700 47ac Delete type=2 #20

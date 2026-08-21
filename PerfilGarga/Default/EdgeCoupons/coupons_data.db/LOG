@@ -1,0 +1,10 @@
+2026/08/21-17:01:50.501 122c Reusing MANIFEST C:\Users\Gamers Club\Desktop\Garga-Ca-ador-de-Smurfs\PerfilGarga\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/21-17:01:50.510 122c Recovering log #19
+2026/08/21-17:01:50.511 122c Reusing old log C:\Users\Gamers Club\Desktop\Garga-Ca-ador-de-Smurfs\PerfilGarga\Default\EdgeCoupons/coupons_data.db/000019.log 
+2026/08/21-17:01:50.517 122c Delete type=2 #8
+2026/08/21-17:01:50.517 122c Delete type=2 #11
+2026/08/21-17:01:50.517 122c Delete type=2 #14
+2026/08/21-17:01:50.518 122c Delete type=2 #17
+2026/08/21-17:01:50.593 49d8 Level-0 table #24: started
+2026/08/21-17:01:50.601 49d8 Level-0 table #24: 683444 bytes OK
+2026/08/21-17:01:50.603 49d8 Delete type=0 #19
